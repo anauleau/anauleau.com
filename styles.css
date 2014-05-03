@@ -1,0 +1,30 @@
+body{
+	background-color: #FEF9E7;
+}
+
+h1{
+	/*font-family: 'Patrick Hand SC', cursive;*/
+	color: #575A67;
+	padding-left: 25px;
+	/*text-shadow: 2px 2px #AB6B70;*/
+	font-size: 400%;
+}
+
+.my-links {
+/*    height:100px;
+    width:500px;
+	spacing: inline-block;*/
+}
+
+a {
+	padding-left: 1em;
+    text-decoration: none;
+}
+
+img{
+	opacity: 0.6;
+}
+
+img:hover {
+	opacity: 1.0;
+};
