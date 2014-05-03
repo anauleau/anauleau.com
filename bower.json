@@ -1,0 +1,23 @@
+{
+  "name": "anauleau.com",
+  "version": "0.0.1",
+  "homepage": "www.anauleau.com",
+  "authors": [
+    "Andreas Nauleau <anauleau@gmail.com>"
+  ],
+  "description": "A website for my projects and thoughts.",
+  "keywords": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.1.1",
+    "d3": "~3.4.6",
+    "ghost-ui": "~0.1.3"
+  }
+}
