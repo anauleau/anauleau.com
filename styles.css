@@ -1,3 +1,13 @@
 body {
-	font-family: 'Roboto Slab', serif;
+	font-weight: 400;
+	background-color: #F6F3E9;
+	color: #262D34;
+}
+
+#header {
+	font-weight: 700;
+}
+
+#sub-header {
+	color: #D34229;
 }
