@@ -11,3 +11,19 @@ body {
 #sub-header {
 	color: #D34229;
 }
+
+.dre-link {
+    color:  #262D34;
+    zoom: 350%;
+    padding: 1px;
+}
+
+.dre-link:hover {
+    color: #D34229;
+    text-decoration: none;
+}
+
+.linkcenter {
+    text-decoration: none;
+    text-align: center;
+}
